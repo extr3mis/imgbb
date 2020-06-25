@@ -17,7 +17,7 @@ Import the package using the given import statement.
 ```console
 $ from imgbb.client import Client
 ```
-Now you can make a `Client` object and initialize it with your own API key from imgbb.
+Now you can make a `Client` object and initialize it with your own API key from imgbb. Optionally, also pass the `aiohttp.ClientSession()` object you want the imgbb client to use.
 ```console
 $ myclient = Client(api_key_here)
 ```
