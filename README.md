@@ -1,6 +1,6 @@
 # imgbb
 
-<img src='https://img.shields.io/badge/Python-3.5+-blue'> <img src='https://img.shields.io/badge/license-MIT-green'> <img src='https://img.shields.io/badge/async-enabled-blue'>
+<img src='https://img.shields.io/badge/Python-3.5+-blue'> <img src='https://img.shields.io/badge/license-MIT-green'> <img src='https://img.shields.io/badge/async-enabled-blue'><img src='https://www.code-inspector.com/project/10298/score/svg'>
 
 A simple tool enabling you to asynchronously upload images to <a href='https://www.imgbb.com'>imgbb</a>.
 _Requires Python 3.5+_
