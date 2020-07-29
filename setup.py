@@ -20,7 +20,7 @@ setup(
 
     # Author details
     author='extr3mis',
-    author_email='bitechlasana@gmail.com',
+    author_email='extr3mis@hash.fyi',
 
     # Choose your license
     license='MIT',
