@@ -9,7 +9,7 @@ _Requires Python 3.5+_
 
 Install this package using `pip`.
 ```console
-$ pip install -e git+https://github.com/extr3mis/imgbb.git
+$ pip install git+https://github.com/extr3mis/imgbb.git
 ```
 
 # Usage
