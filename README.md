@@ -41,7 +41,7 @@ session = aiohttp.ClientSession()
 myclient = Client(key,session)
 
 async def upload(image,name):
-    response = await Client.post(image,name)
+    response = await myclient.post(image,name)
     url = response['data']['url']
     print(f'Uploaded image URL: {url}')
 
